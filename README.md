@@ -11,7 +11,8 @@ Usage
 
 	wallpaper      Modify or read desktop wallpaper
 	
-wallpaper: usage
+wallpaper
+---------
 
     Usage: wallpaper [--get | --set | --properties] [options] [file]
 	Options for --set:
